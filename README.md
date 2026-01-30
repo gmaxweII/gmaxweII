@@ -1,56 +1,57 @@
-# Hi, I'm SolWizAI 👋
+# Hi, I'm Mariano Belinky 👋
 
-📍 **Solana Mainnet** | 🧙‍♂️ **EVM to SVM Archmage** | ⚡ **Automating high-frequency wizardry**
+📍 **Global / Farm Life** | 🚜 **Investor & Operator (Retired)** | 🤖 **Tinkering with Robotics & Open Source**
 
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Solana](https://img.shields.io/badge/-Solana-14F195?style=flat-square&logo=solana&logoColor=black)
-![Anchor](https://img.shields.io/badge/-Anchor-363636?style=flat-square&logo=anchor&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Raycast](https://img.shields.io/badge/-Raycast-FF6363?style=flat-square&logo=raycast&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![AI Agents](https://img.shields.io/badge/-AI_Agents-FF5722?style=flat-square&logo=openai&logoColor=white)
 ![CLI](https://img.shields.io/badge/-CLI-000000?style=flat-square&logo=gnu-bash&logoColor=white)
-![Web3](https://img.shields.io/badge/-Web3-4285F4?style=flat-square&logo=web3.js&logoColor=white)
+![FinTech](https://img.shields.io/badge/-FinTech-FFD700?style=flat-square&logo=bitcoin&logoColor=black)
 
-> Deep in vibe-coding mode – refactoring the ETH success story into a high-performance Solana powerhouse. Transitioning from Solidity to Rust for sub-second finality.
+> Former VC & Operator (Motive Ventures, Santander) now trading term sheets for farm tech. Building tools that make life simpler—whether it's managing API spend, catching a train, or controlling the TV from a terminal.
 
-* 🧙‍♂️ **[WizAI](https://x.com/0xWizAI)** – The original AI-powered toolkit for blockchain dominance.
-* 🦀 **Rust Migration** – Rewriting core logic for the Sealevel engine and Anchor framework.
-* ⚡ **Speed First** – Leveraging 400ms slots to eliminate the sequential bottlenecks of the EVM.
-* 💰 **F11XY13NagySTUv4LXNmTVsfwpJ1yBL28f94QPKCta2r** – Support the magic.
-*  **5XUk1oay2Fc6ZVoNnP7BvMTTUu7Ehc4or9ix9gEYpump** – $WIZ.
-
+* 🛠️ **[OpenClaw](https://github.com/openclaw)** – Maintainer of open-source robotics and automation tools.
+* 🐄 **Agri-Tech** – Exploring the intersection of robotics and farm management.
+* 🏛️ **Legacy** – Ex-Santander InnoVentures & Santander Asset Management. 
+* 🧠 **Mentoring** – Guiding the next generation of robotics and fintech builders.
 
 ## Current Projects
 
-- 🔮 **[SolWiz-Core](https://github.com/your-username/sol-wiz-ai)** - The main migration of WizAI logic to Solana's SVM.
-- 🤖 **[Wiz-Agent](https://github.com/your-username/wiz-agent)** - Cross-chain AI agent monitoring social signals for instant on-chain execution.
-- 🕸️ **[AnchorNexus](https://github.com/your-username/AnchorNexus)** - A modular framework for harmonizing complex Solana accounts.
-- ⚡ **[SpellStream](https://github.com/your-username/SpellStream)** - Real-time transaction settlement for high-traffic dApps on SOL.
-- 🪙 **[MintWizard](https://github.com/your-username/MintWizard)** - Automated SPL token generation and auditing platform.
-- 🏗️ **[SVM-Scaffold](https://github.com/your-username/SVM-Scaffold)** - High-performance infrastructure builder for Solana developers.
+- 🖥️ **[roku-cli](https://github.com/mbelinky/roku-cli)** - Control Roku devices from the terminal with an interactive mode and HTTP bridge.
+- 🤖 **[tokito](https://github.com/mbelinky/tokito)** - A Raycast extension for tracking token usage to keep your API spend in check.
+- 🚂 **[gotrain-cli](https://github.com/mbelinky/gotrain-cli)** - Real-time NYC transit data (MTA, LIRR, Metro-North) right in your CLI.
+- 🏗️ **[OpenClaw Core](https://github.com/openclaw/openclaw)** - High-performance modular framework for robotic control.
 
 ## What I'm Doing
 
-- **Refactoring to Rust** - Moving away from gas-heavy Solidity to high-efficiency Anchor programs.
-- **Vibe Coding** - Pushing the limits of agentic engineering in the Solana ecosystem.
-- **Scaling WizAI** - Bridging the intelligence of our ETH tools with the raw speed of Solana.
+- **Building Utility** - Solving everyday friction points with clean, terminal-first applications.
+- **Mentoring** - Working with robotics startups to navigate the gap between code and commercialization.
+- **Farm-Scale Tinkering** - Applying an operator's mindset to agricultural automation.
+
+## Support the Mission
+
+* 🪙 **SOL** – `B2PPk7QoXCwwP36Ze3J8twK1Swgq4vndmdxruaYfmhXu`
+* 🔹 **EVM** – `0x9499ca5397238e5aef204a424910c652b51b3ba3`
+* ₿ **BTC** – `bc1qgkk0euf8t6ynx4q8zz3dxcwzpvy53qt4cl4fkg`
 
 ## Connect
 
-[![Twitter](https://img.shields.io/badge/-@0xWizAI-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/0xWizAI)
-[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/your-username)
+[![Twitter](https://img.shields.io/badge/-@mbelinky-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/mbelinky)
+[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mbelinky)
 
 ---
 
 ### Philosophy
 
-> "Solana is the playground, Rust is the spellbook." - Building tools that solve real problems at the intersection of AI and high-frequency blockchain tech.
+> "From managing billions to managing bytes." - Investing was about the big picture; tinkering is about the perfect line of code.
 
 <details>
 <summary>Random Facts</summary>
 
-- AI-native developer by heart.
-- Successfully migrated from ETH to SOL.
-- Building at the speed of 400ms blocks.
+- Knows too much about both venture capital and tractor maintenance.
+- Believes everything should have a CLI interface.
+- Still tracks the LIRR schedule more than a retired person probably should.
 
 </details>
